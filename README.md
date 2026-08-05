@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yashvin - aka Ghost
+# 👋 Hi, I'm Yashvin 
 
 Cybersecurity learner building hands-on, defensible skills through a structured home lab and real projects — not just certificates.
 
