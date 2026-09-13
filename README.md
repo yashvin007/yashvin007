@@ -16,7 +16,7 @@ Cybersecurity learner building hands-on, defensible skills through a structured 
 ### 📂 Featured Projects
 | Project | What it does |
 |---|---|
-| [Splunk Security Monitoring Station](#) | Home-lab SIEM setup for log ingestion and alerting |
+| [Web-security-scanner](https://github.com/yashvin007/web-security-scanner) | Crawls live websites, injecting payloads to find real-time security flaws. |
 | [Python Web Vulnerability Scanner](#) | Scans web apps for common vulnerabilities |
 | [Windows Event Log Analyzer](#) | Parses and flags suspicious activity in Windows event logs |
 | [Nmap/iptables Network Hardening](#) | Scans a lab network, then hardens it with firewall rules |
